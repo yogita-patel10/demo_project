@@ -1,3 +1,3 @@
 # demo_project
 this is my first github project<br>
-author name: Yogita patel
+author name: Yogita patel (soft decoder)
